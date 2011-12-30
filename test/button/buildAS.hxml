@@ -1,0 +1,6 @@
+-main Main
+-cp ../../libs/
+-cp ../../src/
+-swf9 test.swf
+-swf-version 10.1
+#-lib utest

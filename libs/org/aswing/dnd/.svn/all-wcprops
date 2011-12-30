@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/dnd
+END
+DirectlyRemoveMotion.hx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/dnd/DirectlyRemoveMotion.hx
+END
+DragListener.hx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/dnd/DragListener.hx
+END
+DefaultDragImage.hx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/dnd/DefaultDragImage.hx
+END
+DraggingImage.hx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/dnd/DraggingImage.hx
+END
+DragManager.hx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/dnd/DragManager.hx
+END
+DropMotion.hx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/dnd/DropMotion.hx
+END
+SourceData.hx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/dnd/SourceData.hx
+END
+RejectedMotion.hx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/dnd/RejectedMotion.hx
+END

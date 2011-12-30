@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/border
+END
+TitledBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/border/TitledBorder.hx
+END
+DecorateBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/border/DecorateBorder.hx
+END
+LineBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/border/LineBorder.hx
+END
+SideLineBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/border/SideLineBorder.hx
+END
+BevelBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/border/BevelBorder.hx
+END
+CaveBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/border/CaveBorder.hx
+END
+EmptyBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/border/EmptyBorder.hx
+END
+SimpleTitledBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/border/SimpleTitledBorder.hx
+END

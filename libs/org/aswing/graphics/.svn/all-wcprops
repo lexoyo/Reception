@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/graphics
+END
+GradientBrush.hx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/graphics/GradientBrush.hx
+END
+Pen.hx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/graphics/Pen.hx
+END
+Graphics2D.hx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/graphics/Graphics2D.hx
+END
+IPen.hx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/graphics/IPen.hx
+END
+IBrush.hx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/graphics/IBrush.hx
+END
+SolidBrush.hx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/graphics/SolidBrush.hx
+END
+BitmapBrush.hx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/graphics/BitmapBrush.hx
+END
+GradientPen.hx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/graphics/GradientPen.hx
+END

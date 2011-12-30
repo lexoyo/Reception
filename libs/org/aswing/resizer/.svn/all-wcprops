@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/resizer
+END
+Resizer.hx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/resizer/Resizer.hx
+END
+ResizeStrategy.hx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/resizer/ResizeStrategy.hx
+END
+ResizerController.hx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/resizer/ResizerController.hx
+END
+DefaultResizer.hx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/resizer/DefaultResizer.hx
+END
+DefaultResizeBarHandler.hx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/resizer/DefaultResizeBarHandler.hx
+END
+ResizeStrategyImp.hx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/resizer/ResizeStrategyImp.hx
+END

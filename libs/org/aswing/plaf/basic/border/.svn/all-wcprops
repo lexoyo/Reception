@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border
+END
+EmptyBorderResource.hx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/EmptyBorderResource.hx
+END
+TextComponentBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/TextComponentBorder.hx
+END
+ComboBoxBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/ComboBoxBorder.hx
+END
+PopupMenuBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/PopupMenuBorder.hx
+END
+TextFieldBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/TextFieldBorder.hx
+END
+ProgressBarBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/ProgressBarBorder.hx
+END
+FrameBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/FrameBorder.hx
+END
+ToolTipBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/ToolTipBorder.hx
+END
+ComboBoxPopupBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/ComboBoxPopupBorder.hx
+END
+TextAreaBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/TextAreaBorder.hx
+END
+TableHeaderCellBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/TableHeaderCellBorder.hx
+END
+ColorChooserBorder.hx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/aswing/!svn/ver/1145/trunk/haXeAsWing/org/aswing/plaf/basic/border/ColorChooserBorder.hx
+END
