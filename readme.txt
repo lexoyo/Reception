@@ -1,3 +1,5 @@
+See https://github.com/yanhick/Reception/
+
 About Reception
 New Page
 Edit Page
