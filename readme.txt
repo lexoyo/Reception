@@ -1,9 +1,6 @@
 See https://github.com/yanhick/Reception/
 
 About Reception
-New Page
-Edit Page
-Page History
 Reception is a library written in the HaXe programming language. This library provides cross-target UI components, mostly used to create forms. It is based on the Cocktail lib, providing cross-target DOM manipulation.
 
 Scope
